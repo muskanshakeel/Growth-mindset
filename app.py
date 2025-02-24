@@ -4,6 +4,7 @@ import sqlite3
 import datetime
 from werkzeug.security import generate_password_hash, check_password_hash
 
+
 # Author: Muskan Shakeel
 
 # Database setup
